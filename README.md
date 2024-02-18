@@ -22,7 +22,7 @@ npm install
 #### note:
 Pastikan mongodb-mu memiliki database dengan nama smartfits dan collection dengan nama users
 
-#### Happy Testing!
+### Happy Testing!
 
 ### 4. Jalankan File connect.js
 ```
